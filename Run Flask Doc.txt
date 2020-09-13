@@ -1,0 +1,14 @@
+1. Need to create a directory
+2. install Flask
+pip install Flask
+3. install virtual env
+py -3 -m venv venv
+4. then activate
+>venv\Script\activate
+5. create app.py
+6. create templates directory
+7. put index.html inside
+8. run flask where app.py be
+> flask run
+9. copy url
+10. run on browser
